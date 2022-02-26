@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7626a933A74F55caA6146eAD1a7Bd73431B103eD",
+  "SCAN_LINK": "https://polygonscan.com/token/0x7626a933A74F55caA6146eAD1a7Bd73431B103eD",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Snake Mania NFT",
+  "SYMBOL": "SMNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 130000000000000000000,
+  "DISPLAY_COST": 130,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/snake-mania-nft",
+  "SHOW_BACKGROUND": true
+}
